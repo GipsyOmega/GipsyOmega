@@ -1,19 +1,19 @@
+![MasterHead](https://www.topgear.com/sites/default/files/2023/02/1%20Red%20Bull%20F1.jpeg)
 <h1 align="center">Hi 👋, I'm Aryaman Rao</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Delhi Technological University, India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gipsyomega&label=Profile%20views&color=0e75b6&style=flat" alt="gipsyomega" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gipsyomega" alt="gipsyomega" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/06Aryaman" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Multi-Modal Classification**
 
-- 🌱 I’m currently learning **MLOps, DevOps**
+- 🌱 I’m currently learning **MLOps**
 
-- 👯 I’m looking to collaborate on **a End-to-end Perception Framework for Self-Driving Cars**
+- 👯 I’m looking to collaborate on **Perception Framework for AVs**
 
-- 💬 Ask me about **Machine Learning, Optimizations, Autonomous Vehicles**
+- 💬 Ask me about **Machine Learning, Optimizations, AVs**
 
 - 📫 How to reach me **aryaman26601@gmail.com**
 
